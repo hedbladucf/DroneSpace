@@ -6,11 +6,11 @@ app.set('view engine', 'ejs');
 
 var routes = require('./routes');
 
-var path = require('path');
-app.use(express.static(path.join(__dirname, 'public')));
+// var path = require('path');
+// app.use(express.static(path.join(__dirname, 'public')));
 
 // Below will eliminate need for PATH
-// app.use(express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/public'));
 
 /* ROUTES */
 
@@ -27,4 +27,5 @@ app.get('/about', routes.about);
 app.get('*', routes.notFound);
 
 // Listens on port 3000 || production PORT
-app.listen(process.env.PORT || 3000);
+var port = 3000;
+app.listen(process.env.PORT || port);
