@@ -1,0 +1,16 @@
+{
+  "name": "Drone Project",
+  "version": "1.0.0",
+  "description": "A Drone Video project that provides information about locations I've shot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hedbladucf",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}

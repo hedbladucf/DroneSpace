@@ -1,0 +1,18 @@
+<nav class="navbar navbar-fixed-top">
+	
+	<div class="content-padding">
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">
+			Locations <i class="fa fa-chevron-down"></i></a>
+				<ul class="dropdown-menu">
+					<% for(var i = 0; i < locations.length; i++) { %>
+					<li><a href="/drone_locations/<%= i + 1 %>" class="episode_link"><%= locations[i].title %></a></li>
+					<% } %>
+				</ul>
+		   	</li>
+		</ul>
+	</div>
+
+</nav>

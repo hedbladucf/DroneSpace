@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<% include partials/head.ejs %>
+</head>
+<body>
+
+	<% include partials/header.ejs %>
+
+	<div id="hero-image-single" style="background-image: url('/images/<%= place.hero_image %>');">
+		<h1 id="hero-title"><%= title %></h1>
+	</div>
+
+	<div class="content-padding clearfix">
+
+		
+		<div class="poster-wrapper">
+			<div class="video-container">
+				<iframe src="<%= place.vimeo %>" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			</div>
+		</div>
+
+		<div class="description-wrapper">
+
+			<div class="description">
+				<a href="<%= place.website %>"><h2 class="movie-header">About the Capture</h2></a>
+
+				<div id="weather">
+				<!-- DIV WHERE WEATHER GOES -->
+				</div>
+
+				<p><%= place.description %></p>
+			</div>
+		</div>
+
+		<div id="googleMap">
+		<!-- DIV WHERE GOOGLE MAPS GOES -->
+		</div>
+
+	</div>
+	
+	<% include partials/footer.ejs %>
+	<% include partials/scripts.ejs %>
+	<% include partials/weather.ejs %>
+	<% include partials/googleMaps.ejs %>
+
+</body>
+</html>

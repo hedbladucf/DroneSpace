@@ -1,0 +1,85 @@
+{
+  "locations": [{
+    "title" : "Lake Monroe & Blue Springs",
+    "location_number" : "1",
+    "description" : "I took the drone up to Blue Springs State Park to capture some shots of the springs. Unfortunately, I did not get to fly for too long as I was quickly approached by a park ranger who instructed me that it was prohibited to fly drones in Blue Springs. Luckily, I had gotten a few good shots and a few minutes of decent video footage. I left Blue Springs, and on the way back home I passed a beautiful marina by Lake Monroe, which is located passed Lake Mary on I4 East. I stopped there and took the drone out for a flight over the marina.",
+    "address" : "Sanford, FL",
+    "poster" : "location_1_poster.jpg",
+    "vimeo" : "https://player.vimeo.com/video/191665653",
+    "website" : "https://www.floridastateparks.org/park/Blue-Spring",
+    "longitude" : "28.9489",
+    "latitude" : "-81.3403",
+    "song" : "Tycho - Dye",
+    "hero_image" : "location_1_hero.jpg"
+  },
+
+  {
+    "title" : "John U. Lloyd State Park",
+    "location_number" : "2",
+    "description" : "I went down to Ft. Lauderdale for the day to renew my Swedish passport at the Swedish Consulate's Office. As a friend of mine that I went to school with at UCF moved down to Ft. Lauderdale after graduation, I took the opportunity to meet up with him while I was down there. My friend, Rudy, showed me around the area and took me to this beautiful location; John U. Lloyd State Park. The park is located on the southern shoreline of Ft. Lauderdale.",
+    "address" : "Ft. Lauderdale, FL",
+    "poster" : "location_2_poster.jpg",
+    "vimeo" : "https://player.vimeo.com/video/192175365",
+    "website" : "https://www.floridastateparks.org/park/Mizell-Johnson",
+    "longitude" : "26.0847",
+    "latitude" : "-80.1106",
+    "song" : "EMBRZ - Silent (feat. Amy Rose)",
+    "hero_image" : "location_2_hero.jpg"
+  },
+
+  {
+    "title" : "Frontline Insurance Office",
+    "location_number" : "3",
+    "description" : "I went down to Ft. Lauderdale for the day to renew my Swedish passport at the Swedish Consulate's Office. As a friend of mine that I went to school with at UCF moved down to Ft. Lauderdale after graduation, I took the opportunity to meet up with him while I was down there. My friend, Rudy, showed me around the area and took me to this beautiful location; John U. Lloyd State Park. The park is located on the southern shoreline of Ft. Lauderdale.",
+    "address" : "Lake Mary, FL",
+    "poster" : "location_3_poster.jpg",
+    "vimeo" : "https://player.vimeo.com/video/191665653",
+    "website" : "",
+    "longitude" : "28.7663",
+    "latitude" : "-81.3622",
+    "song" : "Tycho - Epoch",
+    "hero_image" : "location_3_hero.jpg"
+  },
+
+  {
+    "title" : "Lake Butler",
+    "location_number" : "4",
+    "description" : "A close friend of the family lives in South Bay which is located in Dr. Phillips, Orlando. I brought the drone over to his house as he wanted to see how it worked. I didn't realize how beautiful the surroundings to his house were until I was up in the air. The chain of lakes that surround his house are called the Butler chain. Unfortunately, I did not get a whole lot of good footage, so I wasn't able to create a video for it yet. But with another visit to his house, I should be able to produce something.",
+    "address" : "Orlando, FL",
+    "poster" : "location_4_poster.jpg",
+    "vimeo" : "https://player.vimeo.com/video/191665653",
+    "website" : "http://www.cityoflakebutler.org/",
+    "longitude" : "28.4423",
+    "latitude" : "-81.4963",
+    "song" : "Tycho - Horizon",
+    "hero_image" : "location_4_hero.jpg"
+  },
+
+  {
+    "title" : "Lido Key",
+    "location_number" : "5",
+    "description" : "Friends of the family live in Lido Key, Sarasota, so while visiting them last time I brought my drone for a birds-eye view of the beautiful surroundings. While standing on our friends balcony, I saw a little wooden dock that went out in the lake below. I decided to try to get to the dock and use it as my take off spot.",
+    "address" : "Lido Key, FL",
+    "poster" : "location_5_poster.jpg",
+    "vimeo" : "https://player.vimeo.com/video/196666561",
+    "website" : "http://www.kayakfl.com/Lido_Key_Kayak_Tour.html",
+    "longitude" : "27.3044",
+    "latitude" : "-82.5679",
+    "song" : "ODESZA - Kusanagi",
+    "hero_image" : "location_5_hero.jpg"
+  },
+
+  {
+    "title" : "Lido Key #2",
+    "location_number" : "6",
+    "description" : "Decided to take the drone out in Lido Key, Sarasota, yet again. This time I took off from the eastern end of the state park, so the scenery is a little differnt from the last previous Lido Key video. It was extremely windy when I took off. In fact, it was the strongest wind I've ever taken off in (definitely > 30 Mph); taking off was not an issue, but landning took some time and patience. After a few failed landing attempts, my girlfriend successfully managed to reach and grab the drifting drone out of the sky.",
+    "address" : "Lido Key, FL",
+    "poster" : "location_6_poster.jpg",
+    "vimeo" : "https://player.vimeo.com/video/198878686",
+    "website" : "http://www.kayakfl.com/Lido_Key_Kayak_Tour.html",
+    "longitude" : "27.3044",
+    "latitude" : "-82.5679",
+    "song" : "Oh Wonder - Plans",
+    "hero_image" : "location_6_hero.jpg"
+  }]
+}
