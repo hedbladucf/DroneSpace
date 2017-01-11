@@ -1,5 +1,5 @@
 {
-  "name": "Drone Project",
+  "name": "DroneSpace",
   "version": "1.0.0",
   "description": "A Drone Video project that provides information about locations I've shot.",
   "main": "app.js",
@@ -9,7 +9,7 @@
   "author": "hedbladucf",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.5.2",
+    "ejs": "^2.5.5",
     "express": "^4.14.0",
     "path": "^0.12.7"
   }

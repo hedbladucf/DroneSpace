@@ -27,5 +27,5 @@ app.get('/about', routes.about);
 app.get('*', routes.notFound);
 
 // Listens on port 3000 || production PORT
-var port = 3000;
-app.listen(process.env.PORT || port);
+var port = process.env.PORT || 3000;
+app.listen(port);
