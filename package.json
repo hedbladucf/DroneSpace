@@ -1,7 +1,7 @@
 {
   "name": "DroneSpace",
   "version": "1.0.0",
-  "description": "A Drone Video project that provides information about locations I've shot.",
+  "description": "A Drone video project that provides information about locations I've shot.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
